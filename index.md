@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+Az Adatbáziskezelés története
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
